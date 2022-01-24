@@ -1,6 +1,6 @@
 Editorial Services Website: RCAEditing.com
 
-Direct Link: http://rcaediting.com
+Direct Link: https://rcaediting.com
 
 
 HTML5, CSS3, Bootstrap, JS, jQuery
