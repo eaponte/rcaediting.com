@@ -1,6 +1,5 @@
-Editorial Services Website: RCAEditing.com
+Editorial Services Website
 
-Direct Link: https://rcaediting.com
-
+Direct Link: https://eaponte.github.io/rcaediting.com
 
 HTML5, CSS3, Bootstrap, JS, jQuery
