@@ -323,10 +323,33 @@ a.link_2:hover {
 
 /********** Contact **********/
 
-.contact-iframe {
+#contact .social-icons, #contact .email img {
 	width: 100%;
-	max-width: 640px;
-	height: 840px;
+	max-width: 300px;
+}
+
+#contact .social-icons {
+	display: inline-block;
+	text-decoration: none;
+	font-size: 28px;
+	padding: 0;
+	margin: 0 0 40px;
+	background-color: #8490ff;
+	vertical-align: top;
+	line-height: 45px;
+	transition: all 0.2s;
+}
+
+#contact a.social-icons:hover {
+	background-color: rgba(132, 144, 255, .8);
+}
+
+#contact a.social-icons img {
+	width: 28px;
+}
+
+#contact a.social-icons .text {
+	color: #fff;
 }
 
 /********** Footer **********/
